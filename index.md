@@ -4,7 +4,7 @@ title: TV Remote – Privacy Policy
 
 # TV Remote – Privacy Policy
 
-*Last updated: November 19, 2026* · [Español más abajo](#es)
+*Last updated: November 20, 2026* · [Español más abajo](#es)
 
 TV Remote ("the app") is an Android app that controls Samsung smart TVs over your home Wi‑Fi.
 It is developed by nvodapp ("we"). This policy explains what the app does with your information.
@@ -48,6 +48,20 @@ process the audio on its own servers under its own privacy policy. The app only 
 never stores audio, and uses the text only to type or search on your TV. You can turn off the microphone permission
 at any time in Android settings; you can still type with the keyboard.
 
+## Delete your data {#delete-data}
+
+TV Remote by nvodapp has no accounts and keeps no data on any server, so there is nothing to request from us:
+you can delete everything yourself, at any time.
+
+1. On your phone, open **Settings → Apps → TV Remote**.
+2. Tap **Storage → Clear storage** (or simply uninstall the app).
+
+This deletes, immediately and permanently, everything the app saved: the TV's address, name and MAC address, the
+pairing key, the certificate fingerprint, your settings and your recent searches. No data is kept afterwards and there
+is no retention period. Voice is never stored by the app. To also forget the app on the TV, remove "TV Remote" from
+the list of connected devices in the TV's settings (the menu name varies by model).
+Questions: nvodapp@gmail.com
+
 ## Purchases
 
 The app currently has no purchases. If optional purchases are added in the future, payments will be handled entirely
@@ -66,7 +80,7 @@ Questions: nvodapp@gmail.com
 
 # Política de privacidad {#es}
 
-*Última actualización: 19 de noviembre de 2026*
+*Última actualización: 20 de noviembre de 2026*
 
 TV Remote ("la app") es una app para Android que controla televisores inteligentes Samsung a través del Wi‑Fi de tu casa.
 La desarrolla nvodapp ("nosotros"). Esta política explica qué hace la app con tu información.
@@ -109,6 +123,20 @@ Tu voz la convierte en texto el servicio de reconocimiento de voz de tu teléfon
 puede procesar el audio en sus propios servidores según su propia política de privacidad. La app solo recibe el texto,
 nunca guarda audio y usa ese texto solo para escribir o buscar en tu TV. Puedes quitar el permiso del micrófono cuando
 quieras en los ajustes de Android; igual podrás escribir con el teclado.
+
+## Borrar tus datos {#borrar-datos}
+
+TV Remote de nvodapp no tiene cuentas ni guarda datos en ningún servidor, así que no hay nada que pedirnos:
+puedes borrarlo todo tú mismo, cuando quieras.
+
+1. En tu teléfono, abre **Ajustes → Aplicaciones → TV Remote**.
+2. Toca **Almacenamiento → Borrar almacenamiento** (o simplemente desinstala la app).
+
+Esto borra, de inmediato y para siempre, todo lo que la app guardó: la dirección, el nombre y la dirección MAC de la TV,
+la clave de emparejamiento, la huella del certificado, tus ajustes y tus búsquedas recientes. No se conserva ningún dato
+después ni hay período de retención. La app nunca guarda la voz. Para que la TV también olvide la app, quita
+"TV Remote" de la lista de dispositivos conectados en la configuración de la TV (el nombre del menú cambia según el modelo).
+Consultas: nvodapp@gmail.com
 
 ## Compras
 
